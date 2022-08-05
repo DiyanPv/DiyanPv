@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DiyanPv
-- 👀 I’m interested in JavaScript/React
+- 👋 Hi, I’m @DiyanPv = () => To be fullstack developer!
+- 👀 I’m interested in JavaScript/React Native/Node.JS
 - 🌱 I’m currently learning JS/HTML/CSS/Solidity
 - 📫 How to reach me -> {email : diyanpetrov61@gmail.com || diyan@nexo.io}
